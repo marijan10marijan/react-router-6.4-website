@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "IceCream",
+            "price": "23.99",
+            "type": "chocolate"
+        },
+        {
+            "id": 2,
+            "name": "IceCream",
+            "price": "21.00",
+            "type": "vanilla"
+        },
+        {
+            "id": 3,
+            "name": "Pizza",
+            "price": "18.49",
+            "type": "cheese"
+        },
+        {
+            "id": 4,
+            "name": "Meat",
+            "price": "88.10",
+            "type": "Beef"
+        },
+        {
+            "id": 5,
+            "name": "Meat",
+            "price": "101,00",
+            "type": "Salmon"
+        },
+        {
+            "id": 6,
+            "name": "IceCream",
+            "price": "23.99",
+            "type": "chocolate"
+        },
+        {
+            "id": 7,
+            "name": "IceCream",
+            "price": "21.00",
+            "type": "vanilla"
+        },
+        {
+            "id": 8,
+            "name": "Pizza",
+            "price": "18.49",
+            "type": "cheese"
+        },
+        {
+            "id": 9,
+            "name": "Meat",
+            "price": "88.10",
+            "type": "Beef"
+        },
+        {
+            "id": 10,
+            "name": "Meat",
+            "price": "101,00",
+            "type": "Salmon"
+        }
+    ]
+}
