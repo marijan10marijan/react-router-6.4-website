@@ -5,8 +5,8 @@
 
 ### **Table of Contents :**
 1. [Keywords](#Keywords)
-1. [Installation](#Installation-process) 
-1. [Using react-router-dom](#Implement-code-in-project)
+1. [Installation](#Installation-process-:) 
+1. [Using react-router-dom](#Implement-code-in-the-project)
 1. [Fetching data](#Json-server)
 1. [Final look](#A-final-look-at-the-project)
 ---
